@@ -1,0 +1,951 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sir",
+				"site-text-color"
+			],
+			[
+				"nav",
+				"nav-hover-color"
+			],
+			[
+				"site",
+				"site-hover-color"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"e",
+				"error404"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"sl",
+				"slideUp"
+			],
+			[
+				"cl",
+				"close_accordion_section"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"v",
+				"visited"
+			],
+			[
+				"con",
+				"textContent"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"sum",
+				"SumRndmColor"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"su",
+				"SumRndmColor"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"lin",
+				"linear"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"si",
+				"site-background-color"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"u",
+				"UnityEngine"
+			],
+			[
+				"R",
+				"Renderer"
+			],
+			[
+				"Get",
+				"GetComponent"
+			],
+			[
+				"ge",
+				"GetKeyDown"
+			],
+			[
+				"It",
+				"ItemCategory"
+			],
+			[
+				"C",
+				"Commands"
+			],
+			[
+				"parame",
+				"Parameter"
+			],
+			[
+				"N",
+				"Number"
+			],
+			[
+				"back",
+				"backgroundCredits"
+			],
+			[
+				"_Scene_S",
+				"_Scene_SRD_Credits_createBackground"
+			],
+			[
+				"_Scene",
+				"_Scene_Equip_createBackground"
+			],
+			[
+				"game",
+				"Game_Interpreter"
+			],
+			[
+				"_Sc",
+				"_Scene_Menu_update"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"wi",
+				"width2"
+			],
+			[
+				"param",
+				"Parameters"
+			],
+			[
+				"max",
+				"maxCols"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"windowH",
+				"Window_MenuStatus_windowHeight"
+			],
+			[
+				"_",
+				"_statusWindow"
+			],
+			[
+				"a",
+				"amount"
+			],
+			[
+				"Game_",
+				"Game_Party_gainItem"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"item",
+				"ItemCategory"
+			],
+			[
+				"use",
+				"UseKeyItem"
+			],
+			[
+				"Use",
+				"UseItem"
+			],
+			[
+				"I",
+				"Item"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/scripts/script.js",
+			"settings":
+			{
+				"buffer_size": 4206,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/scripts/404-script.js",
+			"settings":
+			{
+				"buffer_size": 346,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/scripts/song-script.js",
+			"settings":
+			{
+				"buffer_size": 574,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/scripts/num-gen-script.js",
+			"settings":
+			{
+				"buffer_size": 5018,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/styles/scss/styles.scss",
+			"settings":
+			{
+				"buffer_size": 24650,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/styles/scss/variables.scss",
+			"settings":
+			{
+				"buffer_size": 793,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/styles/scss/colors.scss",
+			"settings":
+			{
+				"buffer_size": 942,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "tab",
+		"selected_items":
+		[
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"file",
+				"Set Syntax: Batch File"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Daniel/Music/Silverpool64 ReMixes/Website/silverpool-site"
+	],
+	"file_history":
+	[
+		"/C/Users/Family/Documents/Mom2018/zoom coach jennie.txt",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scripts/main.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scripts/jquery.dropotron.min.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scripts/util.js",
+		"/C/Users/Family/Documents/XBOX-179.txt",
+		"/C/Users/Family/Documents/ROM/Seeding/Halo.3 - Xbox.360/ReadMe.txt",
+		"/C/Users/Family/Documents/Cxbx-0.7.9-Pre4-Trace/Cxbx-0.7.9-Pre4-Trace/Readme.txt",
+		"/C/Users/Family/Documents/box-emu-1.03/box-emu-1.03/Readme.txt",
+		"/C/Users/Family/Documents/Unity Games/Match Three/Assets/Fonts/GoodTimesFont.txt",
+		"/C/Program Files/Unity/Editor/Data/Resources/ScriptTemplates/81-C# Script-NewBehaviourScript.cs.txt",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/assets/styles/scss/colors.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/assets/styles/scss/variables.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/assets/styles/scss/styles.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/assets/scripts/song-script.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/assets/scripts/main.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/assets/scripts/script.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/assets/scripts/404-script.js",
+		"/C/Users/Family/Documents/RPG Maker Games/Silverpool WIP/index.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scripts/remix-script.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scripts/original-script.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scripts/remix-scriptOLD.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scripts/remix-script-A.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/styles/scss/main.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scripts/num-gen-script.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/styles/css/font-awesome.min.css",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/styles/scss/styles.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scss/main.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scss/styles.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scss/variables.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/scss/colors.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/skel-master/skel-master/src/skel.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/css/main.css",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/scripts/jquery-3.2.1.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/styles/scss/colors.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/styles/scss/variables.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/scripts/remixScript(Working).js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/scripts/numGenScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/scripts/remixScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/scripts/originalScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/scripts/script.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/styles/scss/styles.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/about.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/styles/css/styles-dice.css",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/scripts/diceScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/scriptDG.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/SCSS/colors.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/SCSS/variables.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/SCSS/styles.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/diceScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/remixScript(Working).js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/remixScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/originalScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/script.js",
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/User/ColorHighlighter.sublime-settings",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/CSS/colors.css",
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/SCSS/stylesDG.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/CSS/stylesDG.css",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/remixes.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/404_error.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/simple_page.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/CSS/lyndaStyles.css",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/number_generator.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/index.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/indexDG.html",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/SCSS/colors.scss",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/SCSS/variables.scss",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/SCSS/styles.scss",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/scripts/remixScript(Working).js",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/scripts/remixScript.js",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/remixes.html",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/index.html",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/CSS/stylesDG.css",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/indexDG.html",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/CSS/styles.css",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/Gold.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/RecipeBook.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/PH_Warehouse.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/YEP_ItemCore.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_IndividualSkinsForWindows.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/unofficial/DRG_Dice.js",
+		"/C/Users/Family/Documents/Unity Games/Josiah Test/test01/assets/Scripts/Projectors.cs",
+		"/C/Users/Family/AppData/Local/Temp/Temp1_15-11-09-02-57-37-33331.zip/MVCommons-master/MVCommons.js",
+		"/C/Users/Family/Documents/Unity Games/Roll a Ball test/Assets/Scripts/CameraController.cs",
+		"/C/Users/Family/Documents/Unity Games/Roll a Ball test/Assets/Scripts/Rotator.cs",
+		"/C/Users/Family/Documents/Unity Games/Roll a Ball test/Assets/Scripts/PlayerController.cs",
+		"/C/Users/Public/Documents/Unity Projects/Standard Assets Example Project/Assets/Standard Assets/Characters/RollerBall/Scripts/BallUserControl.cs",
+		"/C/Users/Public/Documents/Unity Projects/Standard Assets Example Project/Assets/Standard Assets/Characters/RollerBall/Scripts/Ball.cs",
+		"/C/Users/Family/Documents/Games/Test Game/js/rpg_managers.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/PaperMarioRecipiesTTYD.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_ItemCommandCustemizer.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/DRG_AltMenu.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/MrTS_MenuMusic.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/rpg_windows.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/YEP_ShopMenuCore.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/PaperMarioRecipiesSPM.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/rpg_objects.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_GoldWindow.js",
+		"/C/Users/Family/Documents/Games/Hi/js/rpg_objects.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/CraftingSystem.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/test.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/PaperMarioRecipies.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/test2.js",
+		"/C/Users/Family/Documents/Games/Hi/js/rpg_windows.js",
+		"/C/Users/Family/Documents/Games/Hi/js/rpg_scenes.js",
+		"/C/Users/Family/Documents/Games/Hi/js/rpg_managers.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/AltMenu.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/AltMenu.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/SRD_GoldWindowCustomizer.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/test.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/SRD_SkipTitleScreen.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_ItemCommandCustemizer.js.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_TextCommandList.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/main.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/MOG_Music_Book.js",
+		"/C/Users/Family/Documents/Games/Ryan's Adventure/js/Unused/AltMenuScreen3.js",
+		"/C/Users/Family/Documents/Games/Ryan's Adventure/js/Test/MOG_Master_MV/js/Debug/R5_Scene_Item.js",
+		"/F/RPG/dlc/KadokawaPlugins_New/js/plugins/NovelMessage.js",
+		"/F/RPG/dlc/RPG Maker Freebies/RPG Maker MV Free Resources/Plugins/YED_SideviewBattler.js",
+		"/F/RPG/dlc/RPGmakerWeb_plugins/Yami/Yami_SkipTitle.js",
+		"/F/RPG/dlc/RPGmakerWeb_plugins/Yanfly/--------------------.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/unofficial/FpsSyncOption.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/MadeWithMv.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/KeyboardConfig.js",
+		"/C/Users/Family/Documents/Games/Test Game/data/CommonEvents.json",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/firstPlugin.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/SRD_CreditsPlugin.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"current-item",
+			"#main-content",
+			"side",
+			"$",
+			"code",
+			"li",
+			"mobile",
+			"remix-",
+			"ReMix",
+			"button",
+			"../",
+			"icon",
+			"../",
+			"content",
+			"before",
+			"main",
+			"page",
+			"h1",
+			"font-f",
+			"}\n",
+			"page",
+			"text-decoration",
+			"class",
+			"$nav-link-color",
+			"$site-background-color",
+			"333333",
+			"353535",
+			"teal",
+			"diceGen",
+			"ReMix",
+			"ReMixe",
+			"$gameSystem",
+			"Math.round",
+			"PHPlugins.Params.PHWarehouseAvailableSpaceText",
+			"goto",
+			"top2",
+			"numVisibleRows",
+			"Window_ItemCategory",
+			"Window_ItemCategory.prototype.numVisibleRows",
+			"remove",
+			"removecommand",
+			"('DRG_IndividualSkinsForWindows')",
+			"SRD",
+			".loseItem",
+			".hasitem",
+			"$gameVariables",
+			"Items",
+			"$dataItems",
+			"gainI",
+			"backgroundEquip",
+			"gameVariables",
+			".gainItem",
+			".gameItem",
+			".gameitem",
+			"gainitem",
+			".gainitem",
+			"item",
+			".gainitem",
+			"party.gainitem",
+			"gameparty.gainitem",
+			"2",
+			"drawActorSimpleStatus",
+			"scene_menubase",
+			"Window_Command",
+			"Window_MenuCommand",
+			"$gameParty.gainItem",
+			"gainItem",
+			"gainItems",
+			"$gameParty",
+			"$gameMessage",
+			"$gameCookItemOne",
+			"variables",
+			"variableId",
+			"variables",
+			"Variables",
+			"$gameVariables",
+			"_.order",
+			"Command Order",
+			"close.bind(window)",
+			"Window_G",
+			"Scene_G",
+			"Scene_Gold",
+			"Com. 4 Action",
+			"commandgameend",
+			"First",
+			"prototype.initialize",
+			"X",
+			"if",
+			"Window_TitleCommand.prototype.makeCommandList",
+			"window_titlecommand.prototype.m"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Song",
+			"$main-background-color",
+			"numGen",
+			"Song",
+			"Math.floor",
+			"continue",
+			"",
+			"DRG",
+			"$gameVariables",
+			"CookItemOne"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/scripts/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/scripts/404-script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/scripts/song-script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/scripts/num-gen-script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/styles/scss/styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20272,
+								20272
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Silverpool.tmTheme",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 24567.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/styles/scss/variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								763,
+								731
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Silverpool.tmTheme",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/styles/scss/colors.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								373
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Silverpool.tmTheme",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website-other.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

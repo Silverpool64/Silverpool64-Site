@@ -1,0 +1,8 @@
+cd C:\Users\Family\Documents\Dan Docs\Dreamweaver Sites\Simple Page\styles\SCSS
+sass --watch styles.scss:..\CSS\styles.css
+
+cd C:\Users\Family\Documents\Visual Studio 2015\Projects\Working\Debug
+Working.cpp
+
+cd C:\Users\Family\Documents\ROM\MAME 0.187
+mame64.exe

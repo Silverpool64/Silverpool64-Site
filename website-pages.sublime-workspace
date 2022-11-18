@@ -1,0 +1,910 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"code\tTag"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"music",
+				"music-releases"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"si",
+				"site-background-color"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"R",
+				"Renderer"
+			],
+			[
+				"Get",
+				"GetComponent"
+			],
+			[
+				"ge",
+				"GetKeyDown"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"It",
+				"ItemCategory"
+			],
+			[
+				"C",
+				"Commands"
+			],
+			[
+				"parame",
+				"Parameter"
+			],
+			[
+				"N",
+				"Number"
+			],
+			[
+				"back",
+				"backgroundCredits"
+			],
+			[
+				"_Scene_S",
+				"_Scene_SRD_Credits_createBackground"
+			],
+			[
+				"_Scene",
+				"_Scene_Equip_createBackground"
+			],
+			[
+				"game",
+				"Game_Interpreter"
+			],
+			[
+				"_Sc",
+				"_Scene_Menu_update"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"wi",
+				"width2"
+			],
+			[
+				"param",
+				"Parameters"
+			],
+			[
+				"b",
+				"boxHeight"
+			],
+			[
+				"max",
+				"maxCols"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"windowH",
+				"Window_MenuStatus_windowHeight"
+			],
+			[
+				"_",
+				"_statusWindow"
+			],
+			[
+				"in",
+				"includeEquip"
+			],
+			[
+				"Game_",
+				"Game_Party_gainItem"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"item",
+				"ItemCategory"
+			],
+			[
+				"use",
+				"UseKeyItem"
+			],
+			[
+				"Use",
+				"UseItem"
+			],
+			[
+				"I",
+				"Item"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4739,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "music-releases.html",
+			"settings":
+			{
+				"buffer_size": 2988,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "originals.html",
+			"settings":
+			{
+				"buffer_size": 4174,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "remixes.html",
+			"settings":
+			{
+				"buffer_size": 18546,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "games.html",
+			"settings":
+			{
+				"buffer_size": 2895,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "match_three_game.html",
+			"settings":
+			{
+				"buffer_size": 3573,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "other.html",
+			"settings":
+			{
+				"buffer_size": 2918,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "number_generator.html",
+			"settings":
+			{
+				"buffer_size": 6436,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "404_error.html",
+			"settings":
+			{
+				"buffer_size": 3801,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"file",
+				"Set Syntax: Batch File"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Daniel/Music/Silverpool64 ReMixes/Website/silverpool-site"
+	],
+	"file_history":
+	[
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/User/Silverpool Snippets/Silverpool Site Footer.sublime-snippet",
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/User/Silverpool Snippets/Silverpool Site Navigation.sublime-snippet",
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/User/Silverpool Snippets/Accordion.sublime-snippet",
+		"/C/Users/Family/Documents/Unity Builds/MatchThree/index.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/index.html",
+		"/C/Users/Family/Documents/Mom2018/kim 12 week mastermind.txt",
+		"/C/Users/Family/Documents/Mom2018/zoom coach jennie.txt",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/RPG_game.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/about.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/number_generator.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/other.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/remixes.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/originals.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/music-releases.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/about.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/index.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/silverpool-site/404_error.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/remixesOLD.html",
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/User/Silverpool Snippets/Silverpool Site Navagation.sublime-snippet",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/remixesAT.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/remixes.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/remixes Accordion test.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/styles/css/styles.css",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/assets/styles/scss/colors.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/alpha.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/music-releases.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/silverpool-site/other.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/DG-site/indexDG.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/music-releases.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/number_generator.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/404_error.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/remixes.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/other.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/originals.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/about.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/index.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/indexDG.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/scriptDG.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/SCSS/colors.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/SCSS/variables.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/SCSS/styles.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/diceScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/remixScript(Working).js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/remixScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/originalScript.js",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/scripts/script.js",
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/User/ColorHighlighter.sublime-settings",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/CSS/colors.css",
+		"/C/Users/Family/Documents/RPG Maker Games/Sublime Text/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/SCSS/stylesDG.scss",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/CSS/stylesDG.css",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/simple_page.html",
+		"/F/Lenovo Laptop/Music/Silverpool ReMixes/Website/styles/CSS/lyndaStyles.css",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/SCSS/colors.scss",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/SCSS/variables.scss",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/SCSS/styles.scss",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/scripts/remixScript(Working).js",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/scripts/remixScript.js",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/remixes.html",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/index.html",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/CSS/stylesDG.css",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/indexDG.html",
+		"/C/Users/Family/Documents/Dan Docs/Dreamweaver Sites/Simple Page/styles/CSS/styles.css",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/Gold.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/RecipeBook.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/PH_Warehouse.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/YEP_ItemCore.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_IndividualSkinsForWindows.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/unofficial/DRG_Dice.js",
+		"/C/Users/Family/Documents/Unity Games/Josiah Test/test01/assets/Scripts/Projectors.cs",
+		"/C/Users/Family/AppData/Local/Temp/Temp1_15-11-09-02-57-37-33331.zip/MVCommons-master/MVCommons.js",
+		"/C/Users/Family/Documents/Unity Games/Roll a Ball test/Assets/Scripts/CameraController.cs",
+		"/C/Users/Family/Documents/Unity Games/Roll a Ball test/Assets/Scripts/Rotator.cs",
+		"/C/Users/Family/Documents/Unity Games/Roll a Ball test/Assets/Scripts/PlayerController.cs",
+		"/C/Users/Public/Documents/Unity Projects/Standard Assets Example Project/Assets/Standard Assets/Characters/RollerBall/Scripts/BallUserControl.cs",
+		"/C/Users/Public/Documents/Unity Projects/Standard Assets Example Project/Assets/Standard Assets/Characters/RollerBall/Scripts/Ball.cs",
+		"/C/Users/Family/Documents/Games/Test Game/js/rpg_managers.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/PaperMarioRecipiesTTYD.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_ItemCommandCustemizer.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/DRG_AltMenu.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/MrTS_MenuMusic.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/rpg_windows.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/YEP_ShopMenuCore.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/PaperMarioRecipiesSPM.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/rpg_objects.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_GoldWindow.js",
+		"/C/Users/Family/Documents/Games/Hi/js/rpg_objects.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/CraftingSystem.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/test.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/PaperMarioRecipies.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/test2.js",
+		"/C/Users/Family/Documents/Games/Hi/js/rpg_windows.js",
+		"/C/Users/Family/Documents/Games/Hi/js/rpg_scenes.js",
+		"/C/Users/Family/Documents/Games/Hi/js/rpg_managers.js",
+		"/C/Users/Family/Documents/Games/Hi/js/plugins/AltMenu.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/AltMenu.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/SRD_GoldWindowCustomizer.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/test.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/SRD_SkipTitleScreen.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_ItemCommandCustemizer.js.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/DRG_TextCommandList.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/main.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/MOG_Music_Book.js",
+		"/C/Users/Family/Documents/Games/Ryan's Adventure/js/Unused/AltMenuScreen3.js",
+		"/C/Users/Family/Documents/Games/Ryan's Adventure/js/Test/MOG_Master_MV/js/Debug/R5_Scene_Item.js",
+		"/F/RPG/dlc/KadokawaPlugins_New/js/plugins/NovelMessage.js",
+		"/F/RPG/dlc/RPG Maker Freebies/RPG Maker MV Free Resources/Plugins/YED_SideviewBattler.js",
+		"/F/RPG/dlc/RPGmakerWeb_plugins/Yami/Yami_SkipTitle.js",
+		"/F/RPG/dlc/RPGmakerWeb_plugins/Yanfly/--------------------.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/unofficial/FpsSyncOption.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/MadeWithMv.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/KeyboardConfig.js",
+		"/C/Users/Family/Documents/Games/Test Game/data/CommonEvents.json",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/firstPlugin.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/SRD_CreditsPlugin.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/YEP_CoreEngine.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/SRD_AltMenuScreen_BustSelect.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/SRD_AltMenuScreen_IconCycle.js",
+		"/C/Users/Family/Documents/Games/Test Game/js/plugins/SilvSkipTitle.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"remix-",
+			"h3",
+			">\n",
+			"$site-background-color",
+			"333333",
+			"353535",
+			"teal",
+			"diceGen",
+			"ReMix",
+			"ReMixe",
+			"$gameSystem",
+			"Math.round",
+			"PHPlugins.Params.PHWarehouseAvailableSpaceText",
+			"goto",
+			"top2",
+			"numVisibleRows",
+			"Window_ItemCategory",
+			"Window_ItemCategory.prototype.numVisibleRows",
+			"remove",
+			"removecommand",
+			"('DRG_IndividualSkinsForWindows')",
+			"SRD",
+			".loseItem",
+			".hasitem",
+			"$gameVariables",
+			"Items",
+			"$dataItems",
+			"gainI",
+			"backgroundEquip",
+			"gameVariables",
+			".gainItem",
+			".gameItem",
+			".gameitem",
+			"gainitem",
+			".gainitem",
+			"item",
+			".gainitem",
+			"party.gainitem",
+			"gameparty.gainitem",
+			"2",
+			"drawActorSimpleStatus",
+			"scene_menubase",
+			"Window_Command",
+			"Window_MenuCommand",
+			"$gameParty.gainItem",
+			"gainItem",
+			"gainItems",
+			"$gameParty",
+			"$gameMessage",
+			"$gameCookItemOne",
+			"variables",
+			"variableId",
+			"variables",
+			"Variables",
+			"$gameVariables",
+			"_.order",
+			"Command Order",
+			"close.bind(window)",
+			"Window_G",
+			"Scene_G",
+			"Scene_Gold",
+			"Com. 4 Action",
+			"commandgameend",
+			"First",
+			"prototype.initialize",
+			"X",
+			"if",
+			"Window_TitleCommand.prototype.makeCommandList",
+			"window_titlecommand.prototype.m"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$main-background-color",
+			"numGen",
+			"Song",
+			"Math.floor",
+			"continue",
+			"",
+			"DRG",
+			"$gameVariables",
+			"CookItemOne"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								628,
+								628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "music-releases.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "originals.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "remixes.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16140,
+								16140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7797.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "games.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2187,
+								2187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 748.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "match_three_game.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1139.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "other.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								636,
+								636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "number_generator.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2760.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "404_error.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2479,
+								2479
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1024.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website-pages.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
